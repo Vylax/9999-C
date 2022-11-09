@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: d63f3e581aaa67441ae0fb5366dc855c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5497481372278219205
+    second: bitte.jpg(1)_0
+  - first:
+      213: -2348800352134639660
+    second: bitte.jpg(1)_1
+  - first:
+      213: 3150518152093740888
+    second: bitte.jpg(1)_2
+  - first:
+      213: 1591828366119722488
+    second: bitte.jpg(1)_3
+  - first:
+      213: -7543301579081501366
+    second: bitte.jpg(1)_4
+  - first:
+      213: -5329009628488207774
+    second: bitte.jpg(1)_5
+  - first:
+      213: -2826287604891846127
+    second: bitte.jpg(1)_6
+  - first:
+      213: 6581698680663754531
+    second: bitte.jpg(1)_7
+  - first:
+      213: -9087040990772711101
+    second: bitte.jpg(1)_8
+  - first:
+      213: -2771268922529811732
+    second: bitte.jpg(1)_9
+  - first:
+      213: -4946308951587249698
+    second: bitte.jpg(1)_10
+  - first:
+      213: 4506521858661174390
+    second: bitte.jpg(1)_11
+  - first:
+      213: -7526995048521360172
+    second: bitte.jpg(1)_12
+  - first:
+      213: 2662974846114862275
+    second: bitte.jpg(1)_13
+  - first:
+      213: -4922988844861469843
+    second: bitte.jpg(1)_14
+  - first:
+      213: -1067127793084996544
+    second: bitte.jpg(1)_15
+  - first:
+      213: 3752385899203137111
+    second: bitte.jpg(1)_16
+  - first:
+      213: -1416423457048501940
+    second: bitte.jpg(1)_17
+  - first:
+      213: -6874639879142454058
+    second: bitte.jpg(1)_18
+  - first:
+      213: 3342114863962996259
+    second: bitte.jpg(1)_19
+  - first:
+      213: -4833982149310151632
+    second: bitte.jpg(1)_20
+  - first:
+      213: -2147121109412045975
+    second: bitte.jpg(1)_21
+  - first:
+      213: -353609789103867403
+    second: bitte.jpg(1)_22
+  - first:
+      213: -7246816408573890353
+    second: bitte.jpg(1)_23
+  - first:
+      213: 4099715689606489581
+    second: bitte.jpg(1)_24
+  - first:
+      213: 3907379984855681377
+    second: bitte.jpg(1)_25
+  - first:
+      213: 1979034526609355175
+    second: bitte.jpg(1)_26
+  - first:
+      213: 4830275897031396465
+    second: bitte.jpg(1)_27
+  - first:
+      213: -6938187335261216445
+    second: bitte.jpg(1)_28
+  - first:
+      213: 4954048887178473980
+    second: bitte.jpg(1)_29
+  - first:
+      213: -2295415904275538349
+    second: bitte.jpg(1)_30
+  - first:
+      213: -4242027263926327723
+    second: bitte.jpg(1)_31
+  - first:
+      213: -6284099231385767101
+    second: bitte.jpg(1)_32
+  - first:
+      213: 7418718544605136715
+    second: bitte.jpg(1)_33
+  - first:
+      213: -5418014059350038680
+    second: bitte.jpg(1)_34
+  - first:
+      213: -7730444448188598431
+    second: bitte.jpg(1)_35
+  - first:
+      213: -8818411652686997310
+    second: bitte.jpg(1)_36
+  - first:
+      213: -3538588078259035217
+    second: bitte.jpg(1)_37
+  - first:
+      213: -1268350371224916716
+    second: bitte.jpg(1)_38
+  - first:
+      213: 556193677692870253
+    second: bitte.jpg(1)_39
+  - first:
+      213: 6805537578604519330
+    second: bitte.jpg(1)_40
+  - first:
+      213: 5119043823584526673
+    second: bitte.jpg(1)_41
+  - first:
+      213: -3717923308316051746
+    second: bitte.jpg(1)_42
+  - first:
+      213: 3492648302706678289
+    second: bitte.jpg(1)_43
+  - first:
+      213: -6070331888080353449
+    second: bitte.jpg(1)_44
+  - first:
+      213: 6207164410456064822
+    second: bitte.jpg(1)_45
+  - first:
+      213: -665208747951184155
+    second: bitte.jpg(1)_46
+  - first:
+      213: 7580156070235465983
+    second: bitte.jpg(1)_47
+  - first:
+      213: 4997297048314750509
+    second: bitte.jpg(1)_48
+  - first:
+      213: -8009616013936656039
+    second: bitte.jpg(1)_49
+  - first:
+      213: 6336672361174573425
+    second: bitte.jpg(1)_50
+  - first:
+      213: 3177491456283801046
+    second: bitte.jpg(1)_51
+  - first:
+      213: -4590317377171537785
+    second: bitte.jpg(1)_52
+  - first:
+      213: 8007909065513674213
+    second: bitte.jpg(1)_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bitte.jpg(1)_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 351
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd4f1177f471610800000000000000
+      internalID: 1591828366119722488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 351
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4534311e2fc05790800000000000000
+      internalID: -7543301579081501366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 351
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f2592afd8b06b0800000000000000
+      internalID: -5329009628488207774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_6
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 351
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11af45dc56207c8d0800000000000000
+      internalID: -2826287604891846127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 351
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327ce972414e65b50800000000000000
+      internalID: 6581698680663754531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_11
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 293
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c480ef0c16a8e30800000000000000
+      internalID: 4506521858661174390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 292
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc92c212edba8790800000000000000
+      internalID: -7526995048521360172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 292
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c41a747389c4f420800000000000000
+      internalID: 2662974846114862275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_14
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 292
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b42dc8ab70eabb0800000000000000
+      internalID: -4922988844861469843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_15
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 292
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044e8331decc031f0800000000000000
+      internalID: -1067127793084996544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 236
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41e71fce5ad75ce0800000000000000
+      internalID: -1416423457048501940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 238
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dccafc047f5890a0800000000000000
+      internalID: -6874639879142454058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_19
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 240
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e3111f2c3916e20800000000000000
+      internalID: 3342114863962996259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 240
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0340ac3c8de3aecb0800000000000000
+      internalID: -4833982149310151632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 238
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b90c71ab4e332e0800000000000000
+      internalID: -2147121109412045975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 177
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1b8c4aa61f67b10800000000000000
+      internalID: 1979034526609355175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 182
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c00b12656980340800000000000000
+      internalID: 4830275897031396465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_28
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 188
+        width: 63
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34124a0f06b96bf90800000000000000
+      internalID: -6938187335261216445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 188
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf13138173150c440800000000000000
+      internalID: 4954048887178473980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_30
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 182
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35edfdd856b0520e0800000000000000
+      internalID: -2295415904275538349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 122
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f3d56bb1f7b490800000000000000
+      internalID: -7730444448188598431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_36
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 123
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81d66e255be9580800000000000000
+      internalID: -8818411652686997310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_37
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 123
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa320fc14e864eec0800000000000000
+      internalID: -3538588078259035217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_38
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 123
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d6760be0ae56ee0800000000000000
+      internalID: -1268350371224916716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_39
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 123
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e9339f33ff7b700800000000000000
+      internalID: 556193677692870253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed63da11378476cc0800000000000000
+      internalID: -3717923308316051746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_43
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 69
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ad3306021687030800000000000000
+      internalID: 3492648302706678289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 69
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7578e3e4f49d1cba0800000000000000
+      internalID: -6070331888080353449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_45
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 69
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6334ea3f427442650800000000000000
+      internalID: 6207164410456064822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_46
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 69
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e623ec0b24b4c6f0800000000000000
+      internalID: -665208747951184155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_49
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 13
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951860e0ca028d090800000000000000
+      internalID: -8009616013936656039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_50
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171a8d970f160f750800000000000000
+      internalID: 6336672361174573425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 13
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d572a8f4a7b81c20800000000000000
+      internalID: 3177491456283801046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 14
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780436f7aaaeb40c0800000000000000
+      internalID: -4590317377171537785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bitte.jpg(1)_53
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 11
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a29b0edec12f60800000000000000
+      internalID: 8007909065513674213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

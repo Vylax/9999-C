@@ -1,0 +1,2988 @@
+fileFormatVersion: 2
+guid: d1110a30cd5374d47894c945e34c26a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3654747880395895698
+    second: dragon 3 sans feu_0
+  - first:
+      213: 7991874617741915290
+    second: dragon 3 sans feu_1
+  - first:
+      213: -740136008413284825
+    second: dragon 3 sans feu_2
+  - first:
+      213: -1015496722827321355
+    second: dragon 3 sans feu_3
+  - first:
+      213: -1360667157481045524
+    second: dragon 3 sans feu_4
+  - first:
+      213: 2944989438327093842
+    second: dragon 3 sans feu_5
+  - first:
+      213: -2333548841353767077
+    second: dragon 3 sans feu_6
+  - first:
+      213: 2664421582648459015
+    second: dragon 3 sans feu_7
+  - first:
+      213: 1329209323209280402
+    second: dragon 3 sans feu_8
+  - first:
+      213: -7297155424826632574
+    second: dragon 3 sans feu_9
+  - first:
+      213: -7776975954796232598
+    second: dragon 3 sans feu_10
+  - first:
+      213: 3154977648895617198
+    second: dragon 3 sans feu_11
+  - first:
+      213: -6837483845656730850
+    second: dragon 3 sans feu_12
+  - first:
+      213: -5151876441672278054
+    second: dragon 3 sans feu_13
+  - first:
+      213: 3549841743493373187
+    second: dragon 3 sans feu_14
+  - first:
+      213: -6694552666043249411
+    second: dragon 3 sans feu_15
+  - first:
+      213: -724952257580051523
+    second: dragon 3 sans feu_16
+  - first:
+      213: 1477733394691612588
+    second: dragon 3 sans feu_17
+  - first:
+      213: 5079783601102819992
+    second: dragon 3 sans feu_18
+  - first:
+      213: -3143215429866212251
+    second: dragon 3 sans feu_19
+  - first:
+      213: -8139885962217307491
+    second: dragon 3 sans feu_20
+  - first:
+      213: -1659795637458080034
+    second: dragon 3 sans feu_21
+  - first:
+      213: 4639852615862691926
+    second: dragon 3 sans feu_22
+  - first:
+      213: 5883569481754121258
+    second: dragon 3 sans feu_23
+  - first:
+      213: -4984210121171254578
+    second: dragon 3 sans feu_24
+  - first:
+      213: 8783187330146485501
+    second: dragon 3 sans feu_25
+  - first:
+      213: 8235502569242098742
+    second: dragon 3 sans feu_26
+  - first:
+      213: 5614130005151462741
+    second: dragon 3 sans feu_27
+  - first:
+      213: -568046277648242777
+    second: dragon 3 sans feu_28
+  - first:
+      213: 5365324268489177094
+    second: dragon 3 sans feu_29
+  - first:
+      213: 85754104447996873
+    second: dragon 3 sans feu_30
+  - first:
+      213: 479831065156872485
+    second: dragon 3 sans feu_31
+  - first:
+      213: 5578777306266531827
+    second: dragon 3 sans feu_32
+  - first:
+      213: 4855953873200576819
+    second: dragon 3 sans feu_33
+  - first:
+      213: 3864902538646024170
+    second: dragon 3 sans feu_34
+  - first:
+      213: 7828253202359435320
+    second: dragon 3 sans feu_35
+  - first:
+      213: -8939243510795324426
+    second: dragon 3 sans feu_36
+  - first:
+      213: 399855650317924257
+    second: dragon 3 sans feu_37
+  - first:
+      213: -6404173761596420066
+    second: dragon 3 sans feu_38
+  - first:
+      213: 6746688773659745377
+    second: dragon 3 sans feu_39
+  - first:
+      213: 1220931431187118462
+    second: dragon 3 sans feu_40
+  - first:
+      213: 6495865531305675022
+    second: dragon 3 sans feu_41
+  - first:
+      213: 5908163804003222557
+    second: dragon 3 sans feu_42
+  - first:
+      213: 180683256612104248
+    second: dragon 3 sans feu_43
+  - first:
+      213: -7615026103059334752
+    second: dragon 3 sans feu_44
+  - first:
+      213: -2705203161672282280
+    second: dragon 3 sans feu_45
+  - first:
+      213: 7897899201564682471
+    second: dragon 3 sans feu_46
+  - first:
+      213: -8404421728596673817
+    second: dragon 3 sans feu_47
+  - first:
+      213: 2228592086881455013
+    second: dragon 3 sans feu_48
+  - first:
+      213: -6514047301464217155
+    second: dragon 3 sans feu_49
+  - first:
+      213: 8302182217933622313
+    second: dragon 3 sans feu_50
+  - first:
+      213: -3860427823041711905
+    second: dragon 3 sans feu_51
+  - first:
+      213: -3966892846109013184
+    second: dragon 3 sans feu_52
+  - first:
+      213: -3084097506015384825
+    second: dragon 3 sans feu_53
+  - first:
+      213: 8995411315766735748
+    second: dragon 3 sans feu_54
+  - first:
+      213: -7725178516740198470
+    second: dragon 3 sans feu_55
+  - first:
+      213: -271885163326236785
+    second: dragon 3 sans feu_56
+  - first:
+      213: 2286359761908329570
+    second: dragon 3 sans feu_57
+  - first:
+      213: 503537778136898955
+    second: dragon 3 sans feu_58
+  - first:
+      213: -1777856118423659039
+    second: dragon 3 sans feu_59
+  - first:
+      213: -7213848270025638679
+    second: dragon 3 sans feu_60
+  - first:
+      213: -3301487003415945807
+    second: dragon 3 sans feu_61
+  - first:
+      213: 7890598882632488394
+    second: dragon 3 sans feu_62
+  - first:
+      213: 1487149247013624756
+    second: dragon 3 sans feu_63
+  - first:
+      213: -8328064769836910860
+    second: dragon 3 sans feu_64
+  - first:
+      213: 4594502296553933578
+    second: dragon 3 sans feu_65
+  - first:
+      213: -937897905574289267
+    second: dragon 3 sans feu_66
+  - first:
+      213: 5225741432769583222
+    second: dragon 3 sans feu_67
+  - first:
+      213: -4998312635884672005
+    second: dragon 3 sans feu_68
+  - first:
+      213: 6859411672756911684
+    second: dragon 3 sans feu_69
+  - first:
+      213: -8474849881681127882
+    second: dragon 3 sans feu_70
+  - first:
+      213: 896558999644254897
+    second: dragon 3 sans feu_71
+  - first:
+      213: 5362918473340729128
+    second: dragon 3 sans feu_72
+  - first:
+      213: 7044242323724961051
+    second: dragon 3 sans feu_73
+  - first:
+      213: -8151961668761644390
+    second: dragon 3 sans feu_74
+  - first:
+      213: -681748504818771854
+    second: dragon 3 sans feu_75
+  - first:
+      213: 2151945634836459323
+    second: dragon 3 sans feu_76
+  - first:
+      213: -6408967616272285898
+    second: dragon 3 sans feu_77
+  - first:
+      213: -5309684044947644122
+    second: dragon 3 sans feu_78
+  - first:
+      213: -722601217640540335
+    second: dragon 3 sans feu_79
+  - first:
+      213: 1084839295621538807
+    second: dragon 3 sans feu_80
+  - first:
+      213: 4157839466287465893
+    second: dragon 3 sans feu_81
+  - first:
+      213: 6594863291943557660
+    second: dragon 3 sans feu_82
+  - first:
+      213: 6424937041573009546
+    second: dragon 3 sans feu_83
+  - first:
+      213: 1151540152775819360
+    second: dragon 3 sans feu_84
+  - first:
+      213: 4655607172172861083
+    second: dragon 3 sans feu_85
+  - first:
+      213: 7038609256504086558
+    second: dragon 3 sans feu_86
+  - first:
+      213: -3931066098846839331
+    second: dragon 3 sans feu_87
+  - first:
+      213: -5416221782494853631
+    second: dragon 3 sans feu_88
+  - first:
+      213: 459957959894892642
+    second: dragon 3 sans feu_89
+  - first:
+      213: 1805774752553559898
+    second: dragon 3 sans feu_90
+  - first:
+      213: -7562433280760482670
+    second: dragon 3 sans feu_91
+  - first:
+      213: 4841803188530982179
+    second: dragon 3 sans feu_92
+  - first:
+      213: -6936119731860343614
+    second: dragon 3 sans feu_93
+  - first:
+      213: -2977462059931624350
+    second: dragon 3 sans feu_94
+  - first:
+      213: -5977384024640905707
+    second: dragon 3 sans feu_95
+  - first:
+      213: -5105409821583374894
+    second: dragon 3 sans feu_96
+  - first:
+      213: 4576002543559762064
+    second: dragon 3 sans feu_97
+  - first:
+      213: 1614852779378962303
+    second: dragon 3 sans feu_98
+  - first:
+      213: -5759389222869920648
+    second: dragon 3 sans feu_99
+  - first:
+      213: -5688848539503655004
+    second: dragon 3 sans feu_100
+  - first:
+      213: -706922033725653556
+    second: dragon 3 sans feu_101
+  - first:
+      213: -7605810318106316241
+    second: dragon 3 sans feu_102
+  - first:
+      213: 2043580121806534406
+    second: dragon 3 sans feu_103
+  - first:
+      213: -7520261984281426041
+    second: dragon 3 sans feu_104
+  - first:
+      213: -4646321467436361503
+    second: dragon 3 sans feu_105
+  - first:
+      213: -9063214154387461334
+    second: dragon 3 sans feu_106
+  - first:
+      213: 3372974850995590994
+    second: dragon 3 sans feu_107
+  - first:
+      213: 8160418538807699647
+    second: dragon 3 sans feu_108
+  - first:
+      213: 5031386066287793398
+    second: dragon 3 sans feu_109
+  - first:
+      213: 1510078807578309493
+    second: dragon 3 sans feu_110
+  - first:
+      213: 3132618056720603432
+    second: dragon 3 sans feu_111
+  - first:
+      213: 8643255440081994331
+    second: dragon 3 sans feu_112
+  - first:
+      213: -7994429502667072177
+    second: dragon 3 sans feu_113
+  - first:
+      213: 4294695713152305467
+    second: dragon 3 sans feu_114
+  - first:
+      213: 7507283185288583823
+    second: dragon 3 sans feu_115
+  - first:
+      213: -1767193390887733529
+    second: dragon 3 sans feu_116
+  - first:
+      213: 7991802015705102069
+    second: dragon 3 sans feu_117
+  - first:
+      213: 1734584517524357061
+    second: dragon 3 sans feu_118
+  - first:
+      213: 6146399147543674528
+    second: dragon 3 sans feu_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon 3 sans feu_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1515
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c046d9a2ab74dc0800000000000000
+      internalID: -3654747880395895698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1515
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94b7ff3f97d8ee60800000000000000
+      internalID: 7991874617741915290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1515
+        width: 89
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726fc05c8328ab5f0800000000000000
+      internalID: -740136008413284825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1515
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffdd456c1b38e1f0800000000000000
+      internalID: -1015496722827321355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1515
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce14dcced60fd1de0800000000000000
+      internalID: -1360667157481045524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1515
+        width: 91
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a73ca7a44bed820800000000000000
+      internalID: 2944989438327093842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_6
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1515
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57951541b19d9fd0800000000000000
+      internalID: -2333548841353767077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_7
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1515
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f35ad005de9f420800000000000000
+      internalID: 2664421582648459015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_8
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1564
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bc60646dc427210800000000000000
+      internalID: 1329209323209280402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_9
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1564
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286d4689dcb4bba90800000000000000
+      internalID: -7297155424826632574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_10
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1497
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60cd93c291a21490800000000000000
+      internalID: -7776975954796232598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_11
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1497
+        width: 172
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea868b4b47bb8cb20800000000000000
+      internalID: 3154977648895617198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_12
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1497
+        width: 157
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a82e3ba06c11a0800000000000000
+      internalID: -6837483845656730850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_13
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1497
+        width: 167
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf9b6f0cabd088b0800000000000000
+      internalID: -5151876441672278054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_14
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1497
+        width: 159
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d96c10242934130800000000000000
+      internalID: 3549841743493373187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_15
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 1497
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc095ac1db2813a0800000000000000
+      internalID: -6694552666043249411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1300
+        width: 105
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3d2df33c370f5f0800000000000000
+      internalID: -724952257580051523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1297
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf535f61b6f18410800000000000000
+      internalID: 1477733394691612588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1305
+        width: 173
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892969775440f7640800000000000000
+      internalID: 5079783601102819992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_19
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1311
+        width: 151
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643c42583e0164d0800000000000000
+      internalID: -3143215429866212251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1323
+        width: 181
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9249d528d0590f80800000000000000
+      internalID: -8139885962217307491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_21
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1333
+        width: 195
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede619569a837f8e0800000000000000
+      internalID: -1659795637458080034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_22
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1329
+        width: 202
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a9a20f51146040800000000000000
+      internalID: 4639852615862691926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_23
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1305
+        width: 203
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24984b6543a6a150800000000000000
+      internalID: 5883569481754121258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_24
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1321
+        width: 189
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec24ea16d4784dab0800000000000000
+      internalID: -4984210121171254578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_25
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1307
+        width: 139
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4c719675624e970800000000000000
+      internalID: 8783187330146485501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_26
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1310
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cfd7204f16a4270800000000000000
+      internalID: 8235502569242098742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_27
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1303
+        width: 101
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553ae7ae7569ed40800000000000000
+      internalID: 5614130005151462741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1087
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72bcc8be4ed18f0800000000000000
+      internalID: -568046277648242777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1086
+        width: 96
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087418def5757a40800000000000000
+      internalID: 5365324268489177094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_30
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1089
+        width: 110
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c397a557e8a03100800000000000000
+      internalID: 85754104447996873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_31
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1090
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5296fdebfc3b8a600800000000000000
+      internalID: 479831065156872485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_32
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1181
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7f605076ccb6d40800000000000000
+      internalID: 5578777306266531827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_33
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1090
+        width: 184
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3397dc9d150d36340800000000000000
+      internalID: 4855953873200576819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_34
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1072
+        width: 202
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef608bb164e2a530800000000000000
+      internalID: 3864902538646024170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_35
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1078
+        width: 174
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830c27acfca83ac60800000000000000
+      internalID: 7828253202359435320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_36
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3345a936d61f380800000000000000
+      internalID: -8939243510795324426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_37
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1080
+        width: 157
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7f1ae68929c8500800000000000000
+      internalID: 399855650317924257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_38
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1080
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e101b2405edcf17a0800000000000000
+      internalID: -6404173761596420066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_39
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1083
+        width: 103
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cda14b1bd01ad50800000000000000
+      internalID: 6746688773659745377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_40
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1087
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79740bfaae91f010800000000000000
+      internalID: 1220931431187118462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_41
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1126
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09cd2eb843f52a50800000000000000
+      internalID: 6495865531305675022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_42
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1123
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ce6c4da30ef150800000000000000
+      internalID: 5908163804003222557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_43
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1120
+        width: 66
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838a93fe67ae18200800000000000000
+      internalID: 180683256612104248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_44
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1105
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a932dbfa1ef15690800000000000000
+      internalID: -7615026103059334752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_45
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 1105
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f8247ae00357ad0800000000000000
+      internalID: -2705203161672282280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_46
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1105
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8aa1d9a79fa9d60800000000000000
+      internalID: 7897899201564682471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_47
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1101
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eabb6467fe7d5b80800000000000000
+      internalID: -8404421728596673817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_48
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1105
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abc0d702bc8dee10800000000000000
+      internalID: 2228592086881455013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_49
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1101
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db922220e747995a0800000000000000
+      internalID: -6514047301464217155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_50
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 1105
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8f788db6473370800000000000000
+      internalID: 8302182217933622313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_51
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1087
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0709e29510d6ac0800000000000000
+      internalID: -3860427823041711905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_52
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 1085
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b42a559f3c2f8c0800000000000000
+      internalID: -3966892846109013184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_53
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1084
+        width: 93
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70be84598a51335d0800000000000000
+      internalID: -3084097506015384825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_54
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 1087
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4833ec49eee16dc70800000000000000
+      internalID: 8995411315766735748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_55
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1087
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfa83b9117aac490800000000000000
+      internalID: -7725178516740198470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_56
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 882
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f879d3c62e11a3cf0800000000000000
+      internalID: -271885163326236785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 878
+        width: 114
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cea4df618cabf10800000000000000
+      internalID: 2286359761908329570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_58
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 885
+        width: 142
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dd6dcf0fcecf600800000000000000
+      internalID: 503537778136898955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_59
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 885
+        width: 180
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed5a9f9749c357e0800000000000000
+      internalID: -1777856118423659039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_60
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 885
+        width: 171
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec3e81183343eb90800000000000000
+      internalID: -7213848270025638679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_61
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 885
+        width: 197
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd2daff03ce22d0800000000000000
+      internalID: -3301487003415945807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_62
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 885
+        width: 171
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac55768a0e9018d60800000000000000
+      internalID: 7890598882632488394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_63
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 885
+        width: 119
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9c346c5a63a410800000000000000
+      internalID: 1487149247013624756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_64
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 885
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6fc6f3735cc6c80800000000000000
+      internalID: -8328064769836910860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_65
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 941
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b40d9fe73f2cf30800000000000000
+      internalID: 4594502296553933578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_66
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 941
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8069a6f2daebf2f0800000000000000
+      internalID: -937897905574289267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_67
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 941
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678954c5520958840800000000000000
+      internalID: 5225741432769583222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_68
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 941
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb6fbdc32d62aab0800000000000000
+      internalID: -4998312635884672005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_69
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 941
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ef7dad296813f50800000000000000
+      internalID: 6859411672756911684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 682
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63692ad2fe8436a80800000000000000
+      internalID: -8474849881681127882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 682
+        width: 105
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2b9f5f8a7317c00800000000000000
+      internalID: 896558999644254897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 680
+        width: 150
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827bad200f9ec6a40800000000000000
+      internalID: 5362918473340729128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_73
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 676
+        width: 162
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b150669421d22c160800000000000000
+      internalID: 7044242323724961051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_74
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 669
+        width: 186
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a929cde9d0a6ede80800000000000000
+      internalID: -8151961668761644390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_75
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 679
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2789f10d851f986f0800000000000000
+      internalID: -681748504818771854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_76
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 787
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f2164472f3ddd10800000000000000
+      internalID: 2151945634836459323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_77
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 786
+        width: 136
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fbb1fb8e5ce07a0800000000000000
+      internalID: -6408967616272285898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_78
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 664
+        width: 177
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62126573e763056b0800000000000000
+      internalID: -5309684044947644122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_79
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 675
+        width: 167
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1575544650ec8f5f0800000000000000
+      internalID: -722601217640540335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_80
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 676
+        width: 133
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f328e5779f1e0f00800000000000000
+      internalID: 1084839295621538807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 471
+        width: 159
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a50a2527fc93b930800000000000000
+      internalID: 4157839466287465893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_82
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 471
+        width: 185
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a1f821939a58b50800000000000000
+      internalID: 6594863291943557660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_83
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 453
+        width: 203
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885533d236f92950800000000000000
+      internalID: 6424937041573009546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_84
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 458
+        width: 174
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0604dc6faa71bff00800000000000000
+      internalID: 1151540152775819360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_85
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 461
+        width: 156
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ecf1f7e0a0c9040800000000000000
+      internalID: 4655607172172861083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_86
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 461
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10d3be93d92ea160800000000000000
+      internalID: 7038609256504086558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_87
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 464
+        width: 102
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd47a5f53c0279c0800000000000000
+      internalID: -3931066098846839331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_88
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 551
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10649a53cf6b5d4b0800000000000000
+      internalID: -5416221782494853631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_89
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 551
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260062bd359126600800000000000000
+      internalID: 459957959894892642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_90
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 491
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57e25ee1966f0910800000000000000
+      internalID: 1805774752553559898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_91
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 534
+        width: 127
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294fda6aff6dc0790800000000000000
+      internalID: -7562433280760482670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_92
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 521
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d2eb4d85a813340800000000000000
+      internalID: 4841803188530982179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_93
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 518
+        width: 86
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4f2ee5ad3fdbf90800000000000000
+      internalID: -6936119731860343614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_94
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 521
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c9291280eeda6d0800000000000000
+      internalID: -2977462059931624350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_95
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 502
+        width: 50
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e1f2d26e01c0da0800000000000000
+      internalID: -5977384024640905707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_96
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 502
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58bbf11d0f529b0800000000000000
+      internalID: -5105409821583374894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_97
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 505
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090e924911a318f30800000000000000
+      internalID: 4576002543559762064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_98
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 284
+        width: 171
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f6f670c0c196610800000000000000
+      internalID: 1614852779378962303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_99
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 284
+        width: 198
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87410af240a8210b0800000000000000
+      internalID: -5759389222869920648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_100
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 284
+        width: 172
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a782e5e4662d01b0800000000000000
+      internalID: -5688848539503655004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_101
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 284
+        width: 139
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdb2efd7228036f0800000000000000
+      internalID: -706922033725653556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_102
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 269
+        width: 154
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22b54020dbb27690800000000000000
+      internalID: -7605810318106316241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_103
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 278
+        width: 176
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607f35e1b414c5c10800000000000000
+      internalID: 2043580121806534406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_104
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 281
+        width: 159
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7870801c199a2a790800000000000000
+      internalID: -7520261984281426041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_105
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 281
+        width: 117
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e81f2d1e33f48fb0800000000000000
+      internalID: -4646321467436361503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_106
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 284
+        width: 89
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b617cdebef83280800000000000000
+      internalID: -9063214154387461334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_107
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 284
+        width: 90
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2571be591c63fce20800000000000000
+      internalID: 3372974850995590994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 186
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb82520ec61af3170800000000000000
+      internalID: 8160418538807699647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_109
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 205
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f41fe848f213d540800000000000000
+      internalID: 5031386066287793398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_110
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 106
+        width: 167
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573fc8cbca0e4f410800000000000000
+      internalID: 1510078807578309493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_111
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 0
+        width: 220
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8295ec7768b497b20800000000000000
+      internalID: 3132618056720603432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_112
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 103
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52cc01670303f770800000000000000
+      internalID: 8643255440081994331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_113
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 101
+        width: 135
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d50af39b41e0190800000000000000
+      internalID: -7994429502667072177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_114
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 101
+        width: 175
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3906d03ff2d99b30800000000000000
+      internalID: 4294695713152305467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_115
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 101
+        width: 174
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a936f184a3f2860800000000000000
+      internalID: 7507283185288583823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_116
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 101
+        width: 168
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6f7b659faa977e0800000000000000
+      internalID: -1767193390887733529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_117
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 101
+        width: 158
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f67a55479598ee60800000000000000
+      internalID: 7991802015705102069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_118
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 99
+        width: 118
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf7eefad6b721810800000000000000
+      internalID: 1734584517524357061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon 3 sans feu_119
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 99
+        width: 195
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aeba1da5756c4550800000000000000
+      internalID: 6146399147543674528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
